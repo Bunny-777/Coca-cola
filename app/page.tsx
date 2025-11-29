@@ -1,7 +1,6 @@
 import Hero from "@/components/sections/hero"
 import Features from "@/components/sections/features"
 import BottleShowcase from "@/components/sections/bottle-showcase"
-import ProjectHighlights from "@/components/sections/project-highlights"
 import Products from "@/components/sections/products"
 import Pricing from "@/components/sections/pricing"
 import Navigation from "@/components/navigation"
@@ -14,7 +13,6 @@ export default function Home() {
       <Hero />
       <Features />
       <BottleShowcase />
-      <ProjectHighlights />
       <Products />
       <Pricing />
       <Footer />
